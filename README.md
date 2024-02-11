@@ -1,0 +1,2 @@
+# ArcoLinuxB-newm Calamares configuration
+
